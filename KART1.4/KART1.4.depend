@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512673418 source:f:\c++\jc++\kart1.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
