@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513326472 source:c:\users\student\desktop\sprawdzian\zad1\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
